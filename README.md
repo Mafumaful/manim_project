@@ -8,6 +8,8 @@
 
 # installation
 
+如何安装？
+
 ```bash
 chmod +x install.sh
 ./install
