@@ -8,7 +8,9 @@
 - 002 teadmefile 提供了 readme 中的图像是如何形成的
 - 003 complex animation 提供了更为复杂的动画
 - 004 physics 提供了如何用 manim 进行物理仿真
-- 005 audio visualization 音频可视化
+- 005 audio visualization 音频可视化效果图如下
+
+![音频可视化效果图](figures/DotExample.gif)
 
 # installation
 
